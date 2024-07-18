@@ -1,0 +1,52 @@
+body{
+    background-color: cadetblue;
+}
+hr{
+    border-style:ridge;
+    border-color: gainsboro;
+}
+#btn{
+    background-color:tomato;
+    color:black;
+    height: 30px;
+    border-style: inset;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+input{
+    background-color: blanchedalmond;
+    border-style: outset;
+    height: 30px;
+    border-radius: 10px;
+    color:indigo;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:wheat;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:wheat;
+}
+result{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:wheat;
+}
+button{
+    background-color:tomato;
+    color:black;
+    height: 30px;
+    border-style: inset;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:wheat;   
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:lavenderblush;
+}
